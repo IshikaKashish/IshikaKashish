@@ -44,5 +44,5 @@ Final-year Biomedical Engineering student bridging the gap between technical dat
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ishika-kashish-12a92929a/))
-[![Portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://[github.com/your-username](https://github.com/IshikaKashish/IshikaKashish/)
+[![Portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://[github.com/your-username](https://github.com/IshikaKashish/IshikaKashish/))
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishikakashish19@gmail.com)
