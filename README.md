@@ -27,7 +27,7 @@ Final-year Biomedical Engineering student bridging the gap between technical dat
 `Git` `GitHub` `Jupyter Notebook`
 
 **Currently Learning**
-`Gen AI` `Prompt AI` `Agentic AI`
+`Gen AI` `Prompt AI` `Agentic AI` `Machine Learning` 
 
 ---
 
