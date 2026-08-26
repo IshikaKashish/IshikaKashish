@@ -36,7 +36,7 @@ Final-year Biomedical Engineering student bridging the gap between technical dat
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
 | **[Netflix Content Analysis](https://github.com/IshikaKashish/netflix-content-analytics)** | End-to-end catalog distribution and growth trend analysis dashboard. | Python, SQL, Excel, Power BI |  Completed |
-| **[Zomato Product Teardown]()** | End-to-end product teardown identifying 5 high-friction user problems, prioritizing solutions, writing 5 PRDs, mapping UX flows, and building a unified interactive prototype. | Product Management, PRDs, UX Research, HTML/CSS | Completed |
+| **[Zomato Product Teardown](https://github.com/IshikaKashish/zomato-product-prototype)** | End-to-end product teardown identifying 5 high-friction user problems, prioritizing solutions, writing 5 PRDs, mapping UX flows, and building a unified interactive prototype. | Product Management, PRDs, UX Research, HTML/CSS | Completed |
 | **Product Funnel Analytics** | User conversion funnels and feature retention metrics. | SQL, Tableau, Python | 📌 Planned |
 
 ---
